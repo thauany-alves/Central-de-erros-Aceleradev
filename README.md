@@ -15,12 +15,12 @@ Utilizar a tecnologia base da aceleração para o desenvolvimento (Exemplo: Java
 
 Obs. No caso desse projeto foi utilizado Java
 
-###Premissas
+### Premissas
 
 A API deve ser pensada para atender diretamente um front-end Deve ser capaz de gravar os logs de erro em um banco de dados relacional 
 O acesso a ela deve ser permitido apenas por requisições que utilizem um token de acesso válido
 
-###Funcionalidades
+### Funcionalidades
 
 - Deve permitir a autenticação do sistema que deseja utilizar a API gerando o Token de Acesso 
 - Pode ser acessado por multiplos sistemas 
